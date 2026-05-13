@@ -8,7 +8,7 @@ Exemple dans :
 C:\Users\Jean\Documents\mon-projet
 ```
 
-Le dossier peut déjà contenir des fichiers (`README.md`, Enonvé Projet, Code en C, etc.).
+Le dossier peut déjà contenir des fichiers (`README.md`, Enoncé Projet, Code en C, etc.).
 
 ---
 
